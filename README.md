@@ -17,7 +17,7 @@
    ```
    ipconfig
    ```
-   Note down your IP address. You will need it later.
+   Note down your IP address.It is usually written beside 'IPV4 CONFIG' You will need it later.
 
 ## Configuring the Application:
 1. Navigate to the `frontend/components/pages` directory of the application.

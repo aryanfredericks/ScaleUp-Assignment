@@ -2,8 +2,6 @@
 
 # Instructions for Testing the Application
 
-Thank you for participating in the testing process for our React Native application. Please follow the instructions below to set up and run the application on your system.
-
 ## Prerequisites:
 1. **Node.js**: Ensure that Node.js is installed on your system. You can download it from [here](https://nodejs.org/).
 2. **Visual Studio Code (VSCode)**: Install Visual Studio Code, a lightweight and powerful source code editor. You can download it from [here](https://code.visualstudio.com/).

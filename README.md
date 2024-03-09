@@ -21,7 +21,7 @@
 
 ## Configuring the Application:
 1. Navigate to the `frontend/components/pages` directory of the application.
-2. Open the files and replace all occurrences of `'10.0.2.2'` with your copied IP address.
+2. Open the files and replace all occurrences of `'10.0.2.2'` with your copied IP address. You can do this by right clicking on the `pages` folder and selecting `Find in Folder`.
 
 ## Running the Frontend:
 1. In the Command Prompt or Terminal, navigate to the root directory of the application.

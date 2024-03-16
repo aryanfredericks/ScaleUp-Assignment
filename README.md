@@ -26,10 +26,8 @@ Before running the application on your iOS device or emulator, ensure you have t
    ```bash
    #Clone this repository to your local machine.
    git clone https://github.com/aryanfredericks/ScaleUp-Assignment.git
-   cd your-repository
 
-   #Navigate to the project directory.
-   cd ios-project-directory
+   #Navigate to the project directory
 
    #Install dependencies
    npm install

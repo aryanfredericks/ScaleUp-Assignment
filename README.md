@@ -1,47 +1,48 @@
-# ScaleUp-Assignment
+# Mobile App Repository
 
-# Instructions for Testing the Application
+Welcome to the mobile app repository! This repository contains the source code for our mobile application, available for both Android and iOS platforms.
 
-## Prerequisites:
-1. **Node.js**: Ensure that Node.js is installed on your system. You can download it from [here](https://nodejs.org/).
-2. **Visual Studio Code (VSCode)**: Install Visual Studio Code, a lightweight and powerful source code editor. You can download it from [here](https://code.visualstudio.com/).
-3. **Expo CLI**: Install Expo CLI globally using the following command:
-   ```
+## Getting Started
+
+To run the application on your system, please follow the instructions based on your platform:
+
+### For iOS Users
+
+Before running the application on your iOS device or emulator, ensure you have the following requirements:
+
+1. **Node.js**: [Install Node.js](https://nodejs.org/) on your system.
+   ```bash
+   # Install Node.js (macOS)
+   brew install node
+2. **VS Code**: [Install Visual Studio Code](https://code.visualstudio.com/) on your system.
+   ```bash
+   # Install Visual Studio Code (macOS)
+   brew install --cask visual-studio-code
+3. **Expo CLI**: Install Expo CLI globally on your system.
+   ```bash
    npm install -g expo-cli
-   ```
-4. **Expo Go**: Download and install the Expo Go app on your mobile phone from the App Store (iOS) or Google Play Store (Android).
+4. **Expo Go**: Download Expo Go app on your iPhone for testing. Alternatively, if you have an emulator on your Mac, you can use that for testing.
+5. Steps to Run the App:
+   ```bash
+   #Clone this repository to your local machine.
+   git clone https://github.com/yourusername/your-repository.git
+   cd your-repository
 
-## Setting Up the Environment:
-1. Open Command Prompt (Windows) or Terminal (macOS/Linux).
-2. Obtain your IP address by running the following command:
-   ```
-   ipconfig
-   ```
-   Note down your IP address.It is usually written beside 'IPV4 CONFIG' You will need it later.
+   #Navigate to the project directory.
+   cd ios-project-directory
 
-## Configuring the Application:
-1. Navigate to the `frontend/components/pages` directory of the application.
-2. Open the files and replace all occurrences of `'10.0.2.2'` with your copied IP address. You can do this by right clicking on the `pages` folder and selecting `Find in Folder`.
-
-## Running the Frontend:
-1. In the Command Prompt or Terminal, navigate to the root directory of the application.
-2. Install the necessary Node modules by running:
-   ```
+   #Install dependencies
    npm install
-   ```
-3. Launch the frontend by running the following command:
-   ```
+
+   #Run the app
    npx expo start
-   ```
-4. Scan the QR code displayed in the terminal using the Expo Go app on your mobile phone to start the development server.
+6. If you're using Expo Go app, scan the QR code once it launches. If you're using an emulator, start the emulator and then press the option that launches the app on the iOS emulator.
 
-## Running the Backend:
-1. Again, ensure you are in the root directory of the application.
-2. Install the required Node modules by running:
-   ```
-   npm install
-   ```
-3. Launch the Express server by running:
-   ```
-   node app.js
-   ```
+
+### For Android Users
+
+Navigate to the "ANDROID" folder in this repository.
+
+Install the provided APK file on your Android device.
+
+For any queries or assistance regarding running the application, feel free to contact me at [aryanfredericks21@gmail.com](mailto:aryanfredericks21@gmail.com).

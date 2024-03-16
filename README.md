@@ -1,4 +1,4 @@
-# Mobile App Repository
+# iNotes Assignment
 
 Welcome to the mobile app repository! This repository contains the source code for our mobile application, available for both Android and iOS platforms.
 

@@ -25,7 +25,7 @@ Before running the application on your iOS device or emulator, ensure you have t
 5. Steps to Run the App:
    ```bash
    #Clone this repository to your local machine.
-   git clone https://github.com/yourusername/your-repository.git
+   git clone [https://github.com/yourusername/your-repository.git](https://github.com/aryanfredericks/ScaleUp-Assignment.git)
    cd your-repository
 
    #Navigate to the project directory.
